@@ -4,6 +4,6 @@
 
  In this project i have learnt about Tailwind CSS and responsive designs.
 
- Time Taken = 10 hrs
+ Time Taken = 6 hrs
 
  [Live link](https://kshitij-rode-landing-clone.netlify.app/)
